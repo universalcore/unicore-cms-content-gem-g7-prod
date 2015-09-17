@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": "\u0422\u042b \u0427\u0423\u0412\u0421\u0422\u0412\u0423\u0415\u0428\u042c \u0421\u0415\u0411\u042f \u041e\u0414\u0418\u041d\u041e\u041a\u041e\u0419 \u0412 \u042d\u0422\u041e\u041c \u041c\u0418\u0420\u0415? ", 
   "primary_category": "aff0a0e276a544d391f9679869bc5ca0", 
-  "created_at": "2015-09-17T19:55:06.311693+00:00", 
+  "created_at": "2015-09-17T19:55:06+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-17T19:55:06.311904+00:00", 
+  "modified_at": "2015-09-17T20:11:25.705592+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
