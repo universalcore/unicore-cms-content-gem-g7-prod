@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u041f\u041e\u0422\u041e\u041c\u0423 \u0427\u0422\u041e \u041e\u0411\u0420\u0410\u0417\u041e\u0412\u0410\u041d\u0418\u0415 \u041c\u041e\u0416\u0415\u0422 \u0421\u0414\u0415\u041b\u0410\u0422\u042c \u0422\u0412\u041e\u0415 \u0411\u0423\u0414\u0423\u0429\u0415\u0415 \u0411\u041e\u041b\u0415\u0415 \u042f\u0420\u041a\u0418\u041c!", 
+  "subtitle": "", 
   "description": "\u041f\u041e\u0422\u041e\u041c\u0423 \u0427\u0422\u041e \u041e\u0411\u0420\u0410\u0417\u041e\u0412\u0410\u041d\u0418\u0415 \u041c\u041e\u0416\u0415\u0422 \u0421\u0414\u0415\u041b\u0410\u0422\u042c \u0422\u0412\u041e\u0415 \u0411\u0423\u0414\u0423\u0429\u0415\u0415 \u0411\u041e\u041b\u0415\u0415 \u042f\u0420\u041a\u0418\u041c!", 
   "language": "rus_RU", 
   "title": "\u041f\u041e\u0427\u0415\u041c\u0423 \u041d\u0415\u041e\u0411\u0425\u041e\u0414\u0418\u041c\u041e \u0423\u041f\u041e\u0420\u041d\u041e \u0423\u0427\u0418\u0422\u042c\u0421\u042f?", 
   "primary_category": "663ab25aeb9d4bbaad565dbec67d9758", 
-  "created_at": "2015-09-18T14:50:55.279271+00:00", 
+  "created_at": "2015-09-18T14:50:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-18T14:50:55.279486+00:00", 
+  "modified_at": "2015-09-20T19:46:08.476913+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 13, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-study-hard", 
   "uuid": "ff0de0da07c7441b950e5a34ae1c6721"
