@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u0422\u041e\u0413\u0414\u0410 \u0411\u0423\u0414\u042c \u0425\u041e\u0420\u041e\u0428\u0415\u0419 \u041f\u041e\u0414\u0420\u0423\u0413\u041e\u0419 \u0414\u041b\u042f \u0414\u0420\u0423\u0413\u0418\u0425 ", 
+  "subtitle": "", 
   "description": "\u0422\u041e\u0413\u0414\u0410 \u0411\u0423\u0414\u042c \u0425\u041e\u0420\u041e\u0428\u0415\u0419 \u041f\u041e\u0414\u0420\u0423\u0413\u041e\u0419 \u0414\u041b\u042f \u0414\u0420\u0423\u0413\u0418\u0425 ", 
   "language": "rus_RU", 
   "title": "\u0425\u041e\u0427\u0415\u0428\u042c \u0418\u041c\u0415\u0422\u042c \u0414\u0420\u0423\u0417\u0415\u0419?", 
   "primary_category": "663ab25aeb9d4bbaad565dbec67d9758", 
-  "created_at": "2015-09-18T15:08:28.754292+00:00", 
+  "created_at": "2015-09-18T15:08:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-18T15:08:28.754511+00:00", 
+  "modified_at": "2015-09-20T19:49:31.557369+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-want-friends", 
   "uuid": "6b6921f124674d9aaf8a621d22588e30"
